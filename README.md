@@ -23,7 +23,7 @@ Other Interests: AI Safety, Secure AI Systems, Agentic Workflows
 
 🎯 Always learning, always building.
 
-🥽 Swimming , 🏏 Love cricket,
+Love 🥽 Swimming , 🏏  cricket,
 🎧 music, and exploring new tech.
 
 Teachers Who Inspire Me 🔥 :
