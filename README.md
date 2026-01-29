@@ -9,7 +9,7 @@ Focused on learning deeply, experimenting boldly, and solving real-world problem
 
 Core Areas: Data Science, Machine Learning, Deep Learning, NLP, MLOps
 
-Libraries I Love: Pandas 🐼, 🔢 NumPy, 📊 Matplotlib, 🌊 Seaborn, PyTorch 🔥, Scikit-Learn 🤖, LangChain 🔗, LangGraph 🧠
+Libraries I Love: Pandas 🐼, 🔢 NumPy, 📊 Matplotlib, 🌊 Seaborn, PyTorch 🔥, Scikit-Learn 🤖 
 
 Other Interests: AI Safety, Secure AI Systems, Agentic Workflows
 
