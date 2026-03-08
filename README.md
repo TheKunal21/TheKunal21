@@ -26,7 +26,6 @@ Other Interests: AI Safety, Secure AI Systems, Agentic Workflows
 Love 🥽 Swimming , 🏏  cricket,
 🎧 music, and exploring new tech.
 
-Teachers Who Inspire Me 🔥 :
-Krish Naik Sir , Amit Khurana Sir
+Teachers Who Inspire Me 🔥 : Amit Khurana Sir, Nitish Singh sir, Krish Naik Sir
 
 “Elite is not about knowing everything — it’s about mastering your craft and staying hungry to learn.”
